@@ -5,9 +5,6 @@ backgrounds:
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-github-link:
-  text: Github
-  href: https://github.com/senli1073
 license-link:
   text: License
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
