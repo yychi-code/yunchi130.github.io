@@ -1,4 +1,4 @@
-#### Published
+#### Preprints
 
 
 - <strong>Yunchi Yang*</strong>, Longlong Li*, Jianliang Wu, and Cunquan Qu+.  
