@@ -1,6 +1,6 @@
 
 
-He is currently pursuing the M.S. degree in Data Science at Shandong University, Jinan, China.
+He is currently pursuing the M.S. degree in Data Science at Shandong University, Jinan, China, under the supervision of Associate Professor [Cunquan Qu](https://faculty.sdu.edu.cn/qucunquan/zh_CN/index.htm).
 
 #### Contact
 
