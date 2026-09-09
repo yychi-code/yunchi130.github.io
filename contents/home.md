@@ -1,8 +1,8 @@
 
 
-He is currently pursuing the Ph.D. degree in Data Science at Shandong University, Jinan, China, under the supervision of Associate Professor [Cunquan Qu](https://faculty.sdu.edu.cn/qucunquan/zh_CN/index.htm).
+He is currently pursuing the Ph.D. degree in Data Science at Shandong University, Jinan, China, under the supervision of Associate Professor [Cunquan Qu](https://faculty.sdu.edu.cn/qucunquan/zh_CN/index.htm).  
 
-#### Contact
+#### Contact  
 
 ycyang@mail.sdu.edu.cn
 
